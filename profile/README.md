@@ -1,19 +1,19 @@
-# Home Devops Lab
-![A man sitting in front of the laptop](media/homedevops.webp)
+# Home DevOps Lab
+<img src="media/homedevops.webp" alt="A man sitting in front of the laptop" width="75%">
 
-Projekt Home Devops Lab ma na celu pupularyzację zagadnienia Homelab w internecie. Dlaczego warto się tym zainteresować?
+The Home DevOps Lab project aims to popularize the concept of Homelab on the internet. Why is it worth getting interested in?
 
-## Zdobywanie wiedzy
-Uważam, że zdobywanie wiedzy poprzez praktykę jest jednym z najbardziej skutecznych sposobów nauki. Środowisko homelab pozwala na przeprowadzanie różnych eksperymentów z najnowszymi technologiami i jednocześnie uniknąć wysokich kosztów chmur publicznych.
+## Knowledge Acquisition
+I believe that acquiring knowledge through practice is one of the most effective ways of learning. A homelab environment allows you to conduct various experiments with the latest technologies while avoiding the high costs of public clouds.
 
-Dzięki temu można nauczyć się wielu technologii przydatnych w chmurze takich jak:
+This way, you can learn many technologies useful in the cloud such as:
 * Docker
 * Kubernetes
-* Automatyzacja (CI/CD)
+* Automation (CI/CD)
 * Monitoring
 
-## Środowisko testowe
-Posiadając własną infrastrukturę możemy bezpiecznie wykonać testy opracowywanych profesjonalnych rozwiązań.
+## Testing Environment
+Having your own infrastructure allows you to safely test professionally developed solutions.
 
-## Selfhosting
-Wykorzystanie przestrzeni w chmurze kosztuje. Nawet jeśli są to tylko zdjęcia w google. Dostawcy tego typu rozwiązań co jakiś czas zmieniają zasady swoich usług - najczęściej niestety na niekorzyść swoich użytkowników. Dzięki domowej infrastrukturze możemy w każdym momencie zmienić zdanie i przenieść swoje zasoby na własny sprzęt.
+## Self-hosting
+Using cloud space costs money. Even if it's just photos on Google. Providers of such solutions change the terms of their services from time to time - unfortunately, usually to the disadvantage of their users. Thanks to home infrastructure, we can change our mind at any time and move our resources to our own equipment.
