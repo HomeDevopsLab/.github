@@ -1,5 +1,5 @@
 # Home DevOps Lab
-<img src="media/homedevops.webp" alt="A man sitting in front of the laptop" width="75%">
+<img src="media/homedevops.webp" alt="A man sitting in front of the laptop" width="90$">
 
 The Home DevOps Lab project aims to popularize the concept of Homelab on the internet. Why is it worth getting interested in?
 
