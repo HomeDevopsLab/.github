@@ -1,5 +1,6 @@
 # Home Devops Lab
 ![A man sitting in front of the laptop](media/homedevops.webp)
+
 Projekt Home Devops Lab ma na celu pupularyzację zagadnienia Homelab w internecie. Dlaczego warto się tym zainteresować?
 
 ## Zdobywanie wiedzy
