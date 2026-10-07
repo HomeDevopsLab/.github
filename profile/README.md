@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="media/homedevops.webp" alt="Home DevOps Lab" width="640">
-
-# Home DevOps Lab
-
-**Production-grade platform engineering — running at home.**
+<img src="media/banner.svg" alt="Home DevOps Lab — production-grade platform engineering, running at home" width="100%">
 
 GitOps-driven Kubernetes, Infrastructure as Code and observability,<br>
 built and operated like a real product, on hardware you can own.
