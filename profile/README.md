@@ -36,14 +36,7 @@ Home DevOps Lab is an engineering playground with production habits. Every servi
 
 ## 🧭 Under the hood
 
-```text
-  Git push ──▶ CI pipelines ──▶ Container registry
-     │                                  │
-     ▼                                  ▼
-  Flux CD ──▶ Kubernetes (amd64 + arm64) ──▶ Prometheus · Grafana · Alertmanager
-     │
-     └──▶ Terraform / Terragrunt ──▶ Proxmox · AWS · Azure
-```
+<img src="media/architecture.svg" alt="Platform architecture: Git drives CI pipelines, a container registry, Flux CD and Kubernetes with observability; Terraform provisions AWS, Azure and Proxmox; Renovate keeps dependencies up to date" width="100%">
 
 ## 🛠️ Tech stack
 
