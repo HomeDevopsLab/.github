@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Home DevOps Lab — production-grade platform engineering, running at home">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a35"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#6366f1" stop-opacity="0.45"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+  </pattern>
+  <clipPath id="card"><rect width="1280" height="400" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1280" height="400" fill="url(#bg)"/>
+<rect width="1280" height="400" fill="url(#grid)"/>
+<circle cx="980" cy="200" r="300" fill="url(#glow)"/>
+
+<line x1="980.0" y1="200.0" x2="1099.5" y2="131.0" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 6"/>
+<line x1="980.0" y1="200.0" x2="860.5" y2="269.0" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 6"/>
+<line x1="940.2" y1="131.0" x2="1099.5" y2="269.0" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 6"/>
+<line x1="860.5" y1="131.0" x2="1019.8" y2="269.0" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 6"/>
+<line x1="1019.8" y1="131.0" x2="940.2" y2="269.0" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 6"/>
+<polygon points="980.0,158.0 1016.4,179.0 1016.4,221.0 980.0,242.0 943.6,221.0 943.6,179.0" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-width="2"/>
+<polygon points="1059.7,158.0 1096.0,179.0 1096.0,221.0 1059.7,242.0 1023.3,221.0 1023.3,179.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<polygon points="900.3,158.0 936.7,179.0 936.7,221.0 900.3,242.0 864.0,221.0 864.0,179.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<polygon points="940.2,89.0 976.5,110.0 976.5,152.0 940.2,173.0 903.8,152.0 903.8,110.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<polygon points="1019.8,89.0 1056.2,110.0 1056.2,152.0 1019.8,173.0 983.5,152.0 983.5,110.0" fill="#a78bfa" fill-opacity="0.14" stroke="#a78bfa" stroke-width="2"/>
+<polygon points="940.2,227.0 976.5,248.0 976.5,290.0 940.2,311.0 903.8,290.0 903.8,248.0" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-width="2"/>
+<polygon points="1019.8,227.0 1056.2,248.0 1056.2,290.0 1019.8,311.0 983.5,290.0 983.5,248.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<polygon points="1099.5,89.0 1135.9,110.0 1135.9,152.0 1099.5,173.0 1063.1,152.0 1063.1,110.0" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-width="2"/>
+<polygon points="860.5,227.0 896.9,248.0 896.9,290.0 860.5,311.0 824.1,290.0 824.1,248.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<polygon points="1099.5,227.0 1135.9,248.0 1135.9,290.0 1099.5,311.0 1063.1,290.0 1063.1,248.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<polygon points="860.5,89.0 896.9,110.0 896.9,152.0 860.5,173.0 824.1,152.0 824.1,110.0" fill="#ffffff" fill-opacity="0.025" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.5"/>
+<g transform="translate(980.0,200.0)" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle r="14"/><circle r="4"/><line x1="0.0" y1="-4.0" x2="0.0" y2="-14.0"/><line x1="3.1" y1="-2.5" x2="10.9" y2="-8.8"/><line x1="3.9" y1="0.8" x2="13.7" y2="2.9"/><line x1="1.8" y1="3.6" x2="6.4" y2="12.5"/><line x1="-1.6" y1="3.7" x2="-5.7" y2="12.8"/><line x1="-3.9" y1="1.0" x2="-13.5" y2="3.6"/><line x1="-3.2" y1="-2.4" x2="-11.3" y2="-8.2"/><line x1="-0.2" y1="-4.0" x2="-0.7" y2="-14.0"/></g>
+<g transform="translate(1019.8,131.0)" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="-7" cy="-11" r="3.5"/><circle cx="-7" cy="11" r="3.5"/><circle cx="8" cy="-4" r="3.5"/><path d="M-7 -7.5V7.5M8 -0.5C8 6 -7 2 -7 7.5"/></g>
+<g transform="translate(940.2,269.0)" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-14 12H14M-12 6l8-9 6 6 10-13"/></g>
+<g transform="translate(1099.5,131.0)" fill="none" stroke="#818cf8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-10" y="-3" width="20" height="15" rx="3"/><path d="M-6 -3v-5a6 6 0 0 1 12 0v5"/></g>
+
+<text x="72" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#38bdf8">$ git push origin main<tspan fill="#64748b">  →  reconciled ✓</tspan></text>
+<text x="70" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#f8fafc" letter-spacing="-1.5">Home DevOps <tspan fill="url(#accent)">Lab</tspan></text>
+<text x="72" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#cbd5e1">Production-grade platform engineering — running at home.</text>
+
+<rect x="72" y="282" width="79" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+<text x="111" y="304" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GitOps</text>
+<rect x="160.6" y="282" width="111" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+<text x="216" y="304" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Kubernetes</text>
+<rect x="281.6" y="282" width="208" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+<text x="386" y="304" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Infrastructure as Code</text>
+<rect x="499.8" y="282" width="135" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+<text x="567" y="304" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Observability</text>
+</g></svg>
